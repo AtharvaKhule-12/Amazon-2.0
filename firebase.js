@@ -1,0 +1,10 @@
+import firebase from 'firebase';
+
+const firebaseConfig = {
+    apiKey: "AIzaSyDKpuWN27RVvfICJe5bldG890CWK7WCunY",
+    authDomain: "fir-4ec21.firebaseapp.com",
+    projectId: "fir-4ec21",
+    storageBucket: "fir-4ec21.appspot.com",
+    messagingSenderId: "28207274677",
+    appId: "1:28207274677:web:3ff3720232c49c810a7cfc"
+  };
