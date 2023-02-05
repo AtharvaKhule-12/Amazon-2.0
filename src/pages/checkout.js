@@ -44,7 +44,7 @@ const Checkout = () => {
                 {/* Left */}
                 <div>
                     <Image
-                        src='/../public/chekoutposter.png'
+                        src='/chekoutposter.png'
                         width={1020}
                         height={250}
                         objectFit='contain'
