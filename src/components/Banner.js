@@ -15,15 +15,15 @@ const Banner = () => {
         showThumbs={false}
         interval={4000}>
             <div>
-                <img loading='lazy' src="https://links.papareact.com/gi1" alt="" />
+                <img loading='lazy' src="carousel1.jpg" alt="" />
             </div>
 
             <div>
-                <img loading='lazy' src="https://links.papareact.com/6ff" alt="" />
+                <img loading='lazy' src="carousel2.jpg" alt="" />
             </div>
 
             <div>
-                <img loading='lazy' src="https://links.papareact.com/7ma" alt="" />
+                <img loading='lazy' src="carousel3.jpg" alt="" />
             </div>
         </Carousel>
     </div>
